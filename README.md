@@ -1,5 +1,9 @@
 # Crescendo #
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/forkd-crescendo/crescendo-presentation/master/crescendo-presentation.PNG">
+</div>
+
 Crescendo es la nueva forma de descubrir artistas en tu ciudad!
 Este proyecto también es el trabajo final del curso de Aplicaciones Móviles, dictado por **Angel Augusto Velasquez Nuñez**.
 UPC - San Isidro - Lima - Perú - 2018
