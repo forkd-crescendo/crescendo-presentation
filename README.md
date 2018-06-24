@@ -16,6 +16,10 @@ UPC - San Isidro - Lima - Perú - 2018
 
 ## Repositorios ##
 
+### Documentación ###
+
+- [Google Drive](https://drive.google.com/drive/folders/1JTHyrzMz8oZMQk5n5bu9RV66SwDJ7WDM?usp=sharing)
+
 ### API ###
 
 - [Endpoint](https://crescendo-app.herokuapp.com/)
